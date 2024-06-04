@@ -33,10 +33,10 @@ Adjectives ending in "e" have 2 forms (technically, the word is still masculine 
 
 Adjectives ending in a consonant, add "es" to make plural. E.g. azul/azules (blue)
 
-|   Spanish|        |       |           |       |   English |       |           |
-| ------------------|-------|-----------|-------|-----------|-------|---------- |
-|   El  |   libro   |   es  |   bueno   |   The |   book    |   is  |   good    |
-|  *Los* |  *libros*|  *son*|  *buenos* |   The |   *books* |   *are*|  good    |
+| Spanish   |          |       |            |       |   English |       |           |
+|-----------|----------|-------|------------|-------|-----------|-------|-----------|
+|   El      |   libro  |   es  |   bueno    |   The |   book    |   is  |   good    |
+| *Los*     | *libros* | *son* | *buenos*   |   The |   *books* | *are* |   good    |
 
 
 #### Vocab
@@ -158,3 +158,4 @@ Look through the two new packets we didn't cover in class today
 <br />
 
 <span style="font-size: larger;">Loan words from other languages become masculine in Spanish</span>
+
