@@ -33,10 +33,10 @@ Adjectives ending in "e" have 2 forms (technically, the word is still masculine 
 
 Adjectives ending in a consonant, add "es" to make plural. E.g. azul/azules (blue)
 
-| Spanish   |          |       |            |       |   English |       |           |
-|-----------|----------|-------|------------|-------|-----------|-------|-----------|
-|   El      |   libro  |   es  |   bueno    |   The |   book    |   is  |   good    |
-| *Los*     | *libros* | *son* | *buenos*   |   The |   *books* | *are* |   good    |
+| Spanish   |          |       |            | English   |           |       |           |
+|-----------|----------|-------|------------|-----------|-----------|-------|-----------|
+|   El      |   libro  |   es  |   bueno    |   The     |   book    |   is  |   good    |
+| *Los*     | *libros* | *son* | *buenos*   |   The     |   *books* | *are* |   good    |
 
 
 #### Vocab
@@ -159,3 +159,23 @@ Look through the two new packets we didn't cover in class today
 
 <span style="font-size: larger;">Loan words from other languages become masculine in Spanish</span>
 
+---
+
+### Cuarto Clase de "United Way" - 4 de Junio de 2024
+
+#### Vocabulary
+
+- dibujo = drawing
+- la residencia = dormitory
+    - residencia &#8800; residence, instead use "la dirección", literally "address"
+- la computadora = computer
+- la computadora portátil = laptop, literally "portable computer"
+- tremendo = tremendous (negative connotation, inspires trembling)
+- detrás = behind
+- la bolsa = bag/purse
+
+##### Conjunctions
+
+- y = and
+- o = or
+- pero = but
